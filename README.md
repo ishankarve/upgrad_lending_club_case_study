@@ -139,30 +139,8 @@
 * [verification_status] Indicates if income was verified by LC, not verified, or if the income source was verified
 * [verified_status_joint] Indicates if the co-borrowers' joint income was verified by LC, not verified, or if the income source was verified
 * [zip_code] The first 3 numbers of the zip code provided by the borrower in the loan application.
-
-#### Employer Title replaces Employer Name for all loans listed after 9/23/2013
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-
-
-
 ## Contact
-Created by [@gishankarve] - feel free to contact me!
+Created by [@ishankarve] - feel free to contact me!
 
 
 <!-- Optional -->
